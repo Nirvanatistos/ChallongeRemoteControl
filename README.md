@@ -35,6 +35,7 @@ Para usar este programa necesitas una **API Key de Challonge**.
 Tu API Key es algo como: `abcdefghijk1234567890`
 
 🔐 No la compartas públicamente.
+
 👉 Puedes regenerarla desde la misma página si crees que fue comprometida.
 
 ---
