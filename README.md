@@ -1,4 +1,4 @@
----
+
 # 🎮 Challonge Remote Control – Modo FightCade.
 
 > 🛠️ **Controla tus torneos de Challonge desde Fightcade 2**  
