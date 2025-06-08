@@ -63,6 +63,10 @@ Tu API Key es algo como: `abcdefghijk1234567890`
 
 ---
 
-## 📁 Archivos de Fightcade
+---
+🎮Links de interés:
+Github: https://github.com/Nirvanatistos/ChallongeRemoteControl
+Discord: https://discord.gg/7tfRJQbv8M
 
-Estos archivos son generados por **Fightcade 2** cuando activas esta opción:
+Software desarrollado por [OSG]~Nirvana - 2025
+---
